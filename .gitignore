@@ -1,0 +1,9 @@
+# 🔹 Virtual Environment
+project_environment/
+env/
+venv/
+
+# folder 
+PlantVillage/
+# keras
+*.keras
